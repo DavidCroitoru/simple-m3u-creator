@@ -1,7 +1,7 @@
-#simple-m3u-creator
+simple-m3u-creator
 A simple .m3u playlist creator for audio files in a folder.
 
-#Usage
+Usage
 1.Download the .py file and place it in the folder where you want to create the .m3u file.
 2.Run the .py file.
 
