@@ -1,6 +1,6 @@
 # simple-m3u-creator
 
-A simple `.m3u` playlist creator for audio files in a folder.
+A simple `.m3u` playlist creator for audio files in a folder. Designed in mind to be used with Navidrome and SpotDL.
 
 ## Usage
 1. Download the `.py` file and place it in the folder where you want to create the `.m3u` file.
